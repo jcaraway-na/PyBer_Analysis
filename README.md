@@ -55,7 +55,7 @@
 
 ##### Img.2.5
 
-![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_linechart.png)
+![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_linechart1.png)
 
 ### Deliverable 3:
 
