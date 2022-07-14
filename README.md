@@ -30,32 +30,35 @@
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
 #### Requirements:
-- :white_check_mark: (Img.1) A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time. 
-- :white_check_mark: (Img.2) A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare." 
-- :white_check_mark: (Img.3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28. 
-- :white_check_mark: (Img.4) A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week. 
-- :white_check_mark: (Img.5) An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. 
+- :white_check_mark: (Img.2.1) A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time. 
+- :white_check_mark: (Img.2.2) A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare." 
+- :white_check_mark: (Img.2.3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28. 
+- :white_check_mark: (Img.2.4) A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week. 
+- :white_check_mark: (Img.2.5) An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. 
 
 
-##### Img.1
+##### Img.2.1
 
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_dataframe_groupby.png)
 
-##### Img.2
+##### Img.2.2
 
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_pivot_dataframe.png)
 
-##### Img.3
+##### Img.2.3
 
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_dataframe_loc.png)
 
-##### Img.4
+##### Img.2.4
 
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_dataframe_resample.png)
 
-##### Img.5
+##### Img.2.5
 
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/Resources/pyber_linechart.png)
 
 ### Deliverable 3:
+
+#### Img 3.1
+![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/analysis/Pyber_fare_plot.png)
 
