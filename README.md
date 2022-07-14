@@ -62,3 +62,6 @@
 #### Img 3.1
 ![This is an image](https://github.com/jcaraway-na/PyBer_Analysis/blob/main/analysis/Pyber_fare_plot.png)
 
+- During Q1, the urban cities saw an uptick in fare amounts through to March. After which the trend was met with slight volitiliy until the end of the quarter.
+- The suburban cities saw similar trends through until March, when fare amounts seemed to drop off and stabilize through to April. Sharp increase in fare amounts is seen after April on util the end of the quarter.
+- The rural towns performed as expected with a lower population and a lower driver count.
